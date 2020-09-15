@@ -8,6 +8,7 @@ The repository has implemented the **Bidirectional GAN(BiGAN)**
 * matplotlib
 
 ## Concept
+![bigan_concept](https://user-images.githubusercontent.com/11286586/93152082-b67b8900-f738-11ea-8f7a-282cf87052f6.png)
 
 ## Files and Directories
 * config.py : A file that stores various parameters and path settings.
