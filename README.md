@@ -12,7 +12,7 @@ The repository has implemented the **Bidirectional GAN(BiGAN)**
 
 ## Files and Directories
 * config.py : A file that stores various parameters and path settings.
-* model.py : ANOGAN's network implementation file
+* model.py : BiGAN's network implementation file
 * train.py : This file load the data and learning with BiGAN.
 * utils.py : Various functions such as loading data 
 
